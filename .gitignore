@@ -3,8 +3,9 @@ __pycache__/
 *$py.class
 *.egg-info/
 .eggs/
-dist/
-build/
+/build/
+/dist/
+!wechat_devtools_mcp/scripts/dist/
 .venv/
 venv/
 .env
